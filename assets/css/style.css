@@ -1,0 +1,185 @@
+html, body {
+	height: 100%;
+}
+
+footer {
+	color: #666;
+	background: #222;
+	padding: 17px 0px 18px 0px;
+	border-top: 1px solid #000;
+}
+
+footer a {
+	color: #999;
+}
+
+footer a:hover {
+	color: #efefef;
+	text-decoration: none;
+}
+
+textarea.form-control {
+	height: 200px;
+}
+
+h1 a {
+	text-decoration: none;
+}
+
+h2 a {
+	text-decoration: none;
+}
+
+h2 a:hover {
+	text-decoration: none;
+}
+
+.header a {
+	color: #f0ad4e;
+	text-decoration: none;
+}
+
+.header a:hover {
+	color: #f0ad4e;
+	text-decoration: none;
+}
+
+.header h1 {
+	letter-spacing: 15px;
+	font-size: 300%;
+}
+
+.header p {
+	color: white !important;
+	font-size: 90%;
+	letter-spacing: 3px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+	color: #fff;
+	background-color: #346270 !important; 
+}
+
+.nav-pills>li>a {
+	color: #fff;
+}
+
+.nav-pills>li>a:hover {
+	background-color: #346270 !important;
+}
+
+.navbar-inverse {
+	padding: 1%;
+	border-radius: 0 !important;
+}
+
+.clear {
+	clear: both;
+	height: 63px;
+}
+
+.wrapper {
+	min-height: 100%;
+}
+
+.films_block {
+	text-align: center;
+}
+
+.films_block img {
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+	margin-bottom: 5%;
+	width: 100%;
+}
+
+.film_label {
+	padding: 2%;
+	margin-bottom: 4%;
+}
+
+.margin-8 {
+	margin-top: 8%;
+}
+
+.serials_block {
+	text-align: center;
+}
+
+.serials_block img {
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+	margin-bottom: 5%;
+	width: 100%;
+}
+
+.serial_label {
+	padding: 2%;
+	margin-bottom: 4%;
+}
+
+.panel {
+	border: none !important;
+}
+
+.panel-body {
+	background-color: #f9f9f9 !important;
+}
+
+.panel-info>.panel-heading {
+	background-color: #f0ad4e !important;
+	color: white !important;
+	border-color: transparent !important;
+}
+
+.sidebar-header {
+	font-size: 120%;
+	letter-spacing: 2px;
+}
+
+.form-control {
+	font-size: 14px;
+}
+
+.input-lg {
+	font-size: 14px;
+}
+
+.form-control {
+	border-radius: 0px !important;
+}
+
+.list-group-item-warning {
+	color: #8a6d3b !important;
+	background-color: #f9f9f9 !important;
+}
+
+.badge {
+	background-color: #000 !important;
+}
+
+.info-block {
+	font-size: 120%;
+}
+
+.info-block .badge {
+	font-size: 80%;
+}
+
+.info-block span {
+	margin-right: 3%;
+}
+
+.table tbody>tr>td.vert-align {
+	vertical-align: middle;
+}
+
+@media (max-width: 767px) {
+	.nav-pills>li {
+		float: none !important;
+	}
+
+	.nav-pills {
+		text-align: center;
+	}
+}
